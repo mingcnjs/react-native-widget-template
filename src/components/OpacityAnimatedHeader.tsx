@@ -1,6 +1,6 @@
 import React, {ReactNode} from 'react';
 import {Animated, StyleSheet, View} from 'react-native';
-import {layoutColors} from '../constants/colors';
+import {layoutColors} from '../themes/colors';
 import {useSafeAreaInsets} from 'react-native-safe-area-context';
 
 const styles = StyleSheet.create({

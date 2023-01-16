@@ -9,7 +9,7 @@ import {
 import {addDays, isBefore, isSameDay} from 'date-fns';
 import {WEEK_DAYS} from '../../constants/constants';
 import {getTodayDate} from '../../utils/dateUtils';
-import {layoutColors} from '../../constants/colors';
+import {layoutColors} from '../../themes/colors';
 
 const {width} = Dimensions.get('window');
 

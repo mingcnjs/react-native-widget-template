@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import {View, Image, StyleSheet} from 'react-native';
 import AlarmIcon from '../../assets/icons/AlarmIcon';
 import ChatIcon from '../../assets/icons/ChatIcon';
-import {layoutColors} from '../../constants/colors';
+import {layoutColors} from '../../themes/colors';
 import IconButton from '../buttons/IconButton';
 import DropdownSelector from '../DropdownSelector';
 import {spaceOptions} from './Widget.mock';

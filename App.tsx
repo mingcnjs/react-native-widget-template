@@ -1,7 +1,7 @@
 import React from 'react';
 import {EventProvider} from 'react-native-outside-press';
 import Container from './src/Container';
-import RootNavigator from './src/RootNavigator';
+import RootNavigator from './src/navigator/RootNavigator';
 
 function App(): JSX.Element {
   return (

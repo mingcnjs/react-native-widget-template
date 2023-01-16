@@ -1,8 +1,8 @@
 import React from 'react';
 import {StyleSheet} from 'react-native';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
-import HomeNavigator from './home/HomeNavigator';
-import {layoutColors} from '../constants/colors';
+import HomeNavigator from '../screens/home/HomeNavigator';
+import {layoutColors} from '../themes/colors';
 import HomeIcon from '../assets/icons/HomeIcon';
 import {TabNavigatorParamList} from '../types/paramlists';
 

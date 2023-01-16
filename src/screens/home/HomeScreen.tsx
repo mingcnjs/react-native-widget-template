@@ -2,7 +2,7 @@ import React from 'react';
 import {ScrollView, StyleSheet} from 'react-native';
 import {SafeAreaView} from 'react-native-safe-area-context';
 import Widget from '../../components/widget/Widget';
-import {layoutColors} from '../../constants/colors';
+import {layoutColors} from '../../themes/colors';
 
 const styles = StyleSheet.create({
   container: {

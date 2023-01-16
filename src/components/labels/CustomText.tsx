@@ -7,7 +7,7 @@ import {
   Fonts,
   FontWeights,
 } from '../../types/labels';
-import {layoutColors} from '../../constants/colors';
+import {layoutColors} from '../../themes/colors';
 import getFontFamily from '../../utils/getFontFamily';
 
 const CustomText: FC<BaseTextProps & {font: Fonts}> = props => {

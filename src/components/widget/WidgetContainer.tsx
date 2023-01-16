@@ -7,7 +7,7 @@ import {
   ViewStyle,
 } from 'react-native';
 import LinearGradient from 'react-native-linear-gradient';
-import {layoutColors} from '../../constants/colors';
+import {layoutColors} from '../../themes/colors';
 
 const backgroundImage = require('../../assets/images/bg-work.png');
 

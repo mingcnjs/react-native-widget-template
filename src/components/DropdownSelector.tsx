@@ -10,7 +10,7 @@ import {
   ViewStyle,
 } from 'react-native';
 import NotoText from '../components/labels/NotoText';
-import {layoutColors} from '../constants/colors';
+import {layoutColors} from '../themes/colors';
 import DownArrowIcon from '../assets/icons/DownArrowIcon';
 import {FontDimensions, FontWeights} from '../types/labels';
 
